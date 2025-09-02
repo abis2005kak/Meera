@@ -35,7 +35,7 @@
             transform-style: preserve-3d;
     -webkit-transform: rotateX(-10deg);
             transform: rotateX(-10deg);
-            z-index: 200;
+            z-index: 500;
   }
   
   #drag-container img, #drag-container video {
