@@ -156,16 +156,16 @@
 }
 
 p {
-    font-weight: 600;
-    font-size: 4vw;
+    font-weight: 1000;
+    font-size: 8vw;
     text-align: center;
     
 }
 
 @media screen and (max-width: 658px)    {
   p {
-    font-weight: 600;
-    font-size: 12vw;
+    font-weight: 1000;
+    font-size: 16vw;
     text-align: center;
 }
 }
